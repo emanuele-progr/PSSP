@@ -28,6 +28,11 @@ With changes and additions, this code starts from :
   "The Annotated Transformer" Alexander Rush 
   http://nlp.seas.harvard.edu/2018/04/03/attention.html 
   
+  Transformer implementation and preprocessing by
+  https://github.com/OpenNMT/OpenNMT-py
+  
+  
+  
  *********************************************************************************************************************************
 
 
