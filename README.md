@@ -9,7 +9,7 @@ For more details, a report in Italian is available [here]().
 
 ![struttura-delle-proteine (1)](https://user-images.githubusercontent.com/22282000/123549058-abde2d80-d767-11eb-98fb-9eff75d15c6c.jpg)
 
-
+The reference dataset refers to Zhou & Troyanskaya's work and can be downloaded from the page https://www.princeton.edu/~jzthree/datasets/ICML2014/
 *********************************************************************************************************************************
 
 ## SOURCES 
