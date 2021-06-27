@@ -7,6 +7,8 @@ The task we will try to solve is the prediction of the secondary structure of th
 
 For more details, a report in Italian is available [here](). 
 
+![struttura-delle-proteine (1)](https://user-images.githubusercontent.com/22282000/123549058-abde2d80-d767-11eb-98fb-9eff75d15c6c.jpg)
+
 
 *********************************************************************************************************************************
 
