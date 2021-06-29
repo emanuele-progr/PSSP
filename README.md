@@ -5,7 +5,7 @@ Final Project for the course of Machine Learning 2020-2021, University of Floren
 The project aims to deepen the techniques and concepts exposed during the course through the implementation of the architectures and some tests. 
 The task we will try to solve is the prediction of the secondary structure of the protein in 8 classes mainly with an architecture based on RNNs and, in the end, one based on the Transformer. 
 
-For more details, a report in Italian is available [here](). 
+For more details, a report in Italian is available [here](https://github.com/emanuele-progr/PSSP/blob/main/report_ita/MLProject.pdf). 
 
 ![struttura-delle-proteine (1)](https://user-images.githubusercontent.com/22282000/123549058-abde2d80-d767-11eb-98fb-9eff75d15c6c.jpg)
 
